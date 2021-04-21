@@ -1,11 +1,8 @@
+streamlit==0.79.0
 numpy
 pandas
 plotly_express
 matplotlib
 sklearn
 seaborn
-streamlit==0.60.0
 opencv-python-headless
-
-
-
